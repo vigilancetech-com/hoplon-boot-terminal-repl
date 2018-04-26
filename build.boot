@@ -1,7 +1,7 @@
 (set-env!
  :dependencies '[
-;;                 [com.cemerick/piggieback "LATEST" ]
-                 [com.cemerick/piggieback "0.2.2" :scope "test"]
+                 [com.cemerick/piggieback "LATEST" ]
+;;                 [com.cemerick/piggieback "0.2.2" :scope "test"]
                  [weasel "0.7.0" :scope "test"]
                  [org.clojure/tools.nrepl "0.2.10"]
                  [adzerk/boot-cljs-repl "0.3.3"]
